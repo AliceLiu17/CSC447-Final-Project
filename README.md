@@ -1,3 +1,1 @@
-# CSC447-Final-Project
-
-## Book Recommendation System
+# CSC447 Final Project - Wine Quality Prediction
