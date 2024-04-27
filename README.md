@@ -1,3 +1,3 @@
 # CSC447 Final Project - Wine Quality Prediction
 
-![]([https://github.com/AliceLiu17/csc448_final/blob/main/readme_pic.jpg])
+![](https://github.com/AliceLiu17/Wine-Quality-Prediction/blob/main/readme%20image.png)
